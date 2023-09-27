@@ -1,0 +1,8 @@
+name: amrsim
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python
+  - art
+  - biopython
